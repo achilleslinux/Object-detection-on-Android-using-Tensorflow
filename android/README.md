@@ -1,4 +1,4 @@
-# TF Lite Android App
+# TensorFlow Lite Android App
 
 ## Building from Source with Bazel
 
